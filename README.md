@@ -23,6 +23,4 @@ npm run strapi generate:plugin wysiwyg        (adicionando editor WYSIWYG para H
 #### documentation: https://strapi.io/documentation/developer-docs/latest/guides/registering-a-field-in-admin.html#introduction
 
 
-
-
 # api_strapi_landing_pages
