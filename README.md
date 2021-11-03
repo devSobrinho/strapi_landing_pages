@@ -26,5 +26,3 @@ npm run strapi generate:plugin wysiwyg        (adicionando editor WYSIWYG para H
 
 
 # api_strapi_landing_pages
-# api_strapi_landing_pages
-# api_strapi_landing_pages
