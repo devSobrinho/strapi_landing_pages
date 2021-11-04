@@ -13,12 +13,12 @@
   "pluginOptions": {},
   "attributes": {
     "title": {
-      "type": "string",
+      "type": "text",
       "required": true,
       "maxLength": 255,
       "minLength": 5
     },
-    "section": {
+    "sections": {
       "type": "dynamiczone",
       "components": [
         "section.section-content",

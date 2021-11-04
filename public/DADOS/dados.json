@@ -4,7 +4,7 @@
     "title": "Landing Page",
     "slug": "landing-page",
     "published_at": "2021-11-03T18:01:30.573Z",
-    "section": [
+    "sections": [
       {
         "__component": "section.section-two-columns",
         "_id": "6182d07d5cd6348d3d23db74",
