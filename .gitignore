@@ -1,9 +1,4 @@
-package-lock.json
-lib/
-/node_modules
-npm-debug.log
-.DS_Store
-/*.env
+
 
 ############################
 # OS X
@@ -119,3 +114,5 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+package-lock.json
